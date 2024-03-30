@@ -56,7 +56,7 @@ Functions to manipulate memory:
     ft_strdup
 ```
 
-Functions for numbers:
+Functions that convert to and from numbers:
 ```
     ft_atoi
     ft_itoa
