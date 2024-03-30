@@ -1,7 +1,7 @@
 # **Libft**
 
 ## :speech_balloon: **About**
-Welcom to my library of all funcions usefull!
+Welcom to my library of all functions usefull!
 
 42 school's first project, libft, is about learning how the standard functions of C programming work, by coding them from scratch and creating our very own library.
 
